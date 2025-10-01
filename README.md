@@ -1,5 +1,5 @@
 # Online-Store---Hipotesis-Test-A-B
-Como en una gran tienda online y junto con el departamento de marketing se ha recopilado una lista de hipótesis que pueden ayudar a aumentar los ingresos.
+Como analista en una gran tienda online y junto con el departamento de marketing se ha recopilado una lista de hipótesis que pueden ayudar a aumentar los ingresos.
 
 ## Objetivo
 - Priorizar hipótesis, lanzar un test A/B y analizar los resultados 
